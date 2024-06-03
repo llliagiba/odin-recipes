@@ -1,0 +1,16 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header1 {
+    font-size: 100px;
+    font-weight: 1000;
+    text-align: center;
+}
+
+li {
+    font-size: 50px;
+    font-weight: 700;
+}

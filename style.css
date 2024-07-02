@@ -1,16 +1,43 @@
 * {
     background-color: black;
     color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Tahoma, sans-serif;
+    box-sizing: border-box;
 }
 
 .header1 {
-    font-size: 100px;
+    background-color: burlywood;
+    font-size: 150px;
     font-weight: 1000;
+    text-align: center;
+    padding: 50px;
+    margin: 50px;
+}
+
+.recipes {
+    font-size: 40px;
+    font-weight: 700;
     text-align: center;
 }
 
-li {
-    font-size: 50px;
-    font-weight: 700;
+a {
+    background-color: burlywood;
+}
+
+.recipe1 {
+    background-color: burlywood;
+    margin: 20px 50px;
+    padding: 25px;
+}
+
+.recipe2 {
+    background-color: burlywood;
+    margin: 20px 50px;
+    padding: 25px;
+}
+
+.recipe3 {
+    background-color: burlywood;
+    margin: 20px 50px;
+    padding: 25px;
 }
